@@ -359,7 +359,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗，注：由于本人工作繁忙，无法分出精力同时维护两套GPT网址，所以请大家以后访问：http://chatgpt.chenjinshui.top/shared.html ,感谢大家以往的支持！最后祝大家工作顺利，身体健康。",
+    BotHello: "有什么可以帮你的吗",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
