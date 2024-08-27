@@ -359,7 +359,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮到您",
+    BotHello: "有什么可以帮到您,想要体验文生图请访问--http://textimges.aihisun.com",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
