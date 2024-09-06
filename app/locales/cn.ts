@@ -359,7 +359,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮到您,想要体验文生图请访问--http://textimges.aihisun.com",
+    BotHello: "有什么可以帮到您,已将默认模型改为gpt-4o,之前默认的是deepSeek比肩gpt4的,体验文生图请访问（快下线了，没精力去维护了）--http://textimges.aihisun.com",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
