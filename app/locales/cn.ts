@@ -543,7 +543,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "感谢大家的使用支持,由于本人工作情况繁忙的原因,已无精力继续义务维持这个项目的接口稳定性了,再次感谢大家的日常使用,希望真的能帮助大家",
+    BotHello: "您好,请问有什么可以帮到您！",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
