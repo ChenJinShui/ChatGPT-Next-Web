@@ -5,8 +5,8 @@ export const PLUGINS_REPO_URL = `http://chenjinshui.top`;
 export const ISSUE_URL = `http://chenjinshui.top/`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
-export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
-export const FETCH_TAG_URL = `https://api.github.com/repos/${OWNER}/${REPO}/tags?per_page=1`;
+export const FETCH_COMMIT_URL = `http://chenjinshui.top`;
+export const FETCH_TAG_URL = `http://chenjinshui.top`;
 export const RUNTIME_CONFIG_DOM = "danger-runtime-config";
 
 export const STABILITY_BASE_URL = "https://api.stability.ai";
